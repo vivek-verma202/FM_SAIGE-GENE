@@ -22,7 +22,7 @@ Model name:                      Intel(R) Xeon(R) Gold 6230R CPU @ 2.10GHz
 #### 0. Prepare input data:
   ##### 0a. Input to create genetic relationship matrix (GRM)
 vytjhb
-  ##### 0b. Create genetic relationship matrix (GRM)... STEP 0
+  ##### 0b. Create genetic relationship matrix (GRM)
 bytub
   ##### 0c. Create pheno and covar file
 gyvgb
